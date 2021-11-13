@@ -1,0 +1,2 @@
+# Yagami
+Disable Windows defender 
